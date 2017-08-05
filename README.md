@@ -2,7 +2,7 @@
 
 This is a partial port of [Proland](https://proland.inrialpes.fr/) to Unity. Proland is quite a large and complicate program and I have trimmed this down quite a lot to just its core elements. The core terrain, atmosphere and ocean components have been ported. 
 
-A key part of Proland is its ability to render large planets using some special techniques to calculate the clip space positions in the vertex shaders to minimize precision issues.  This means I have had to do I lot of low level handling of projection and view matrices. This has caused a lot of problems as Unity does a lot of modifications to these matrices behind the scenes to support many platforms and features.
+A key part of Proland is its ability to render large planets using some special techniques to calculate the clip space positions in the vertex shaders to minimize precision issues.  This means I have had to do a lot of low level handling of projection and view matrices. This has caused a lot of problems as Unity modifies these matrices behind the scenes to support some platforms and features.
 
 Its made keeping this up to date with the latest version of Unity quite difficult and at the moment it will only work in version 5.5 of Unity. Its also not a good way to use Unity but it made porting this much easier. I might change this in the future to use Unity's default matrices.
 

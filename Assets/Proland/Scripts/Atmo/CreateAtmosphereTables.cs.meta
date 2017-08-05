@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e9a88ee8ea0b9bf4ebf7e93fb5686d7e
+timeCreated: 1501908763
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_copyInscatter1: {fileID: 7200000, guid: 3cb24fcb61932b8428bd64995aaa2c1e, type: 3}
+  - m_copyInscatterN: {fileID: 7200000, guid: 8e80c76fbd476a7408ee77db5f8c4891, type: 3}
+  - m_copyIrradiance: {fileID: 7200000, guid: bf7872249ef3e02458f3e07ddef91c7d, type: 3}
+  - m_inscatter1: {fileID: 7200000, guid: f1c7af1ecfbcfa5408d2b0ac9a3b0b8f, type: 3}
+  - m_inscatterN: {fileID: 7200000, guid: 050de4f64c0ea9f45b734bdefc90eb05, type: 3}
+  - m_inscatterS: {fileID: 7200000, guid: 461fc3e48b56f4744a796e7fdeb2cc43, type: 3}
+  - m_irradiance1: {fileID: 7200000, guid: 2068255f3c90cba4483b4e02c8a3eb6c, type: 3}
+  - m_irradianceN: {fileID: 7200000, guid: 53a0acd5feb59ae41955641aea3283b0, type: 3}
+  - m_transmittance: {fileID: 7200000, guid: ab8db4d0ea52821488a53f0c42875089, type: 3}
+  - m_readData: {fileID: 7200000, guid: 233032338b8c9da47a4c035a2b3b5dea, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

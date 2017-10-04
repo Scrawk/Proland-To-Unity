@@ -4,7 +4,7 @@ This is a partial port of [Proland](https://proland.inrialpes.fr/) to Unity. Pro
 
 A key part of Proland is its ability to render large planets using some special techniques to calculate the clip space positions in the vertex shaders to minimize precision issues.  This means I have had to do a lot of low level handling of projection and view matrices. This has caused a lot of problems as Unity modifies these matrices behind the scenes to support some platforms and features.
 
-Its made keeping this up to date with the latest version of Unity quite difficult and at the moment it will only work in version 5.5 of Unity. Its also not a good way to use Unity but it made porting this much easier. I might change this in the future to use Unity's default matrices.
+Its made keeping this up to date with the latest version of Unity quite difficult and at the moment it will only work in version 5.5 of Unity. Its also not a good way to use Unity but it made porting this much easier. I might change this in the future to use Unity's default matrices. To add to the confusion Z is up in Proland while Y is up in Unity. Leaving Z as up made porting it much easier but again, its not the best way to use Unity.
 
 The atmosphere is done using the same method in the previous [Brunetons atmospheric scattering](https://www.digital-dust.com/single-post/2017/03/24/Brunetons-atmospheric-scattering-in-Unity) project (one of the Authors of Proland). This means the atmosphere uses precomputed tables that need to be generated. There are some provided but if you want to recreate them I have added a editor window. Go to Windows->Proland->Create Atmosphere Tables to do so.
 

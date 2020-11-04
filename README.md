@@ -10,7 +10,6 @@ The atmosphere is done using the same method in the previous [Brunetons atmosphe
 
 This project is currently only working in Unity 5.5
 
-You can download a unity package [here](https://app.box.com/s/tyby2f6mvecn5u09j66xljalw4yipxcm).
 
 ![Proland5](https://static.wixstatic.com/media/1e04d5_854a8254a92c4c73b8047b790b7b03c2~mv2.jpg/v1/fill/w_550,h_550,al_c,q_80,usm_0.66_1.00_0.01/1e04d5_854a8254a92c4c73b8047b790b7b03c2~mv2.jpg)
 

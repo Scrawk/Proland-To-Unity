@@ -20,3 +20,10 @@ This project is currently only working in Unity 5.5
 ![Proland2](https://static.wixstatic.com/media/1e04d5_49b07d45e16e47e5b324d77bcd94fb31~mv2.jpg/v1/fill/w_550,h_550,al_c,q_80,usm_0.66_1.00_0.01/1e04d5_49b07d45e16e47e5b324d77bcd94fb31~mv2.jpg)
 
 ![Proland1](https://static.wixstatic.com/media/1e04d5_fdfeb72177c04f85a20964aaf9cc9871~mv2.jpg/v1/fill/w_550,h_550,al_c,q_80,usm_0.66_1.00_0.01/1e04d5_fdfeb72177c04f85a20964aaf9cc9871~mv2.jpg)
+
+List of atmoshere projects
+
+[Brunetons-Improved-Atmospheric-Scattering](https://github.com/Scrawk/Brunetons-Improved-Atmospheric-Scattering)\
+[Brunetons-Atmospheric-Scatter](https://github.com/Scrawk/Brunetons-Atmospheric-Scatter)\
+[GPU-GEMS-Atmospheric-Scatter](https://github.com/Scrawk/GPU-GEMS-Atmospheric-Scatter)\
+[Proland-To-Unity](https://github.com/Scrawk/Proland-To-Unity)
